@@ -1,0 +1,4 @@
+[21-Jun-2021 15:44:55 UTC] PHP Warning:  require_once(../ComponentFolder/header.php): failed to open stream: No such file or directory in /home/z3aq7sv5x3rg/public_html/index.php on line 2
+[21-Jun-2021 15:44:55 UTC] PHP Fatal error:  require_once(): Failed opening required '../ComponentFolder/header.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/z3aq7sv5x3rg/public_html/index.php on line 2
+[21-Jun-2021 15:44:58 UTC] PHP Warning:  require_once(../ComponentFolder/header.php): failed to open stream: No such file or directory in /home/z3aq7sv5x3rg/public_html/index.php on line 2
+[21-Jun-2021 15:44:58 UTC] PHP Fatal error:  require_once(): Failed opening required '../ComponentFolder/header.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/z3aq7sv5x3rg/public_html/index.php on line 2

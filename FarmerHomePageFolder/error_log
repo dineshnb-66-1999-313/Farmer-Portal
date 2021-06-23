@@ -1,0 +1,149 @@
+[17-Jun-2021 12:22:25 UTC] PHP Notice:  Undefined index: View_Crop_Id in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/CropViewPageDetails.php on line 112
+[17-Jun-2021 12:22:25 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/CropViewPageDetails.php on line 115
+[17-Jun-2021 12:22:25 UTC] PHP Notice:  Undefined index: View_Crop_Id in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/CropViewPageDetails.php on line 139
+[17-Jun-2021 12:22:27 UTC] PHP Notice:  Undefined index: View_Crop_Id in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/CropViewPageDetails.php on line 112
+[17-Jun-2021 12:22:27 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/CropViewPageDetails.php on line 115
+[17-Jun-2021 12:22:27 UTC] PHP Notice:  Undefined index: View_Crop_Id in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/CropViewPageDetails.php on line 139
+[17-Jun-2021 12:33:19 UTC] PHP Notice:  Undefined index: LoginFarmerUserType in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/HomePageFarmerPortal.php on line 212
+[17-Jun-2021 12:41:14 UTC] PHP Notice:  Undefined index: View_Crop_Id in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/CropViewPageDetails.php on line 112
+[17-Jun-2021 12:41:14 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/CropViewPageDetails.php on line 115
+[17-Jun-2021 12:41:14 UTC] PHP Notice:  Undefined index: View_Crop_Id in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/CropViewPageDetails.php on line 139
+[17-Jun-2021 12:43:30 UTC] PHP Notice:  Undefined index: LoginFarmerUserType in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/HomePageFarmerPortal.php on line 212
+[17-Jun-2021 12:43:32 UTC] PHP Notice:  Undefined index: LoginFarmerUserType in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/HomePageFarmerPortal.php on line 212
+[17-Jun-2021 13:37:14 UTC] PHP Notice:  Undefined index: LoginFarmerUserType in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/HomePageFarmerPortal.php on line 212
+[17-Jun-2021 13:54:05 UTC] PHP Notice:  Undefined index: LoginFarmerUserType in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/HomePageFarmerPortal.php on line 212
+[17-Jun-2021 13:57:27 UTC] PHP Notice:  Undefined index: LoginFarmerUserType in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/HomePageFarmerPortal.php on line 212
+[17-Jun-2021 13:57:42 UTC] PHP Notice:  Undefined index: LoginFarmerUserType in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/HomePageFarmerPortal.php on line 212
+[17-Jun-2021 14:47:29 UTC] PHP Notice:  Undefined index: LoginFarmerUserType in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/HomePageFarmerPortal.php on line 212
+[17-Jun-2021 14:47:30 UTC] PHP Notice:  Undefined index: LoginFarmerUserType in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/HomePageFarmerPortal.php on line 212
+[17-Jun-2021 14:47:34 UTC] PHP Notice:  Undefined index: LoginFarmerUserType in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/HomePageFarmerPortal.php on line 212
+[17-Jun-2021 14:47:37 UTC] PHP Notice:  Undefined index: LoginFarmerUserType in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/HomePageFarmerPortal.php on line 212
+[17-Jun-2021 14:47:42 UTC] PHP Notice:  Undefined index: LoginFarmerUserType in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/HomePageFarmerPortal.php on line 212
+[17-Jun-2021 16:19:19 UTC] PHP Notice:  Undefined index: LoginFarmerUserType in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/HomePageFarmerPortal.php on line 212
+[17-Jun-2021 16:19:23 UTC] PHP Notice:  Undefined index: LoginFarmerUserType in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/HomePageFarmerPortal.php on line 212
+[17-Jun-2021 19:38:20 UTC] PHP Notice:  Undefined index: LoginFarmerUserType in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/HomePageFarmerPortal.php on line 212
+[18-Jun-2021 10:23:01 UTC] PHP Notice:  Undefined index: View_Crop_Id in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/CropViewPageDetails.php on line 112
+[18-Jun-2021 10:23:01 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/CropViewPageDetails.php on line 115
+[18-Jun-2021 10:23:01 UTC] PHP Notice:  Undefined index: View_Crop_Id in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/CropViewPageDetails.php on line 139
+[18-Jun-2021 11:16:46 UTC] PHP Notice:  Undefined index: View_Crop_Id in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/CropViewPageDetails.php on line 112
+[18-Jun-2021 11:16:46 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/CropViewPageDetails.php on line 115
+[18-Jun-2021 11:16:46 UTC] PHP Notice:  Undefined index: View_Crop_Id in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/CropViewPageDetails.php on line 139
+[18-Jun-2021 16:01:49 UTC] PHP Notice:  Undefined index: LoginFarmerUserType in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/HomePageFarmerPortal.php on line 212
+[18-Jun-2021 16:01:51 UTC] PHP Notice:  Undefined index: LoginFarmerUserType in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/HomePageFarmerPortal.php on line 212
+[19-Jun-2021 09:40:05 UTC] PHP Notice:  Undefined index: View_Crop_Id in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/CropViewPageDetails.php on line 112
+[19-Jun-2021 09:40:05 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/CropViewPageDetails.php on line 115
+[19-Jun-2021 09:40:05 UTC] PHP Notice:  Undefined index: View_Crop_Id in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/CropViewPageDetails.php on line 139
+[19-Jun-2021 09:40:13 UTC] PHP Notice:  Undefined index: View_Crop_Id in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/CropViewPageDetails.php on line 112
+[19-Jun-2021 09:40:13 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/CropViewPageDetails.php on line 115
+[19-Jun-2021 09:40:13 UTC] PHP Notice:  Undefined index: View_Crop_Id in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/CropViewPageDetails.php on line 139
+[19-Jun-2021 09:40:13 UTC] PHP Notice:  Undefined index: LoginFarmerUserType in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/HomePageFarmerPortal.php on line 212
+[19-Jun-2021 12:24:19 UTC] PHP Notice:  Undefined index: LoginFarmerUserType in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/HomePageFarmerPortal.php on line 212
+[19-Jun-2021 12:25:30 UTC] PHP Notice:  Undefined index: LoginFarmerUserType in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/HomePageFarmerPortal.php on line 212
+[19-Jun-2021 12:25:33 UTC] PHP Notice:  Undefined index: LoginFarmerUserType in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/HomePageFarmerPortal.php on line 212
+[19-Jun-2021 14:50:25 UTC] PHP Notice:  Undefined index: LoginFarmerUserType in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/HomePageFarmerPortal.php on line 212
+[20-Jun-2021 01:02:16 UTC] PHP Notice:  Undefined index: LoginFarmerUserType in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/HomePageFarmerPortal.php on line 212
+[20-Jun-2021 02:24:20 UTC] PHP Notice:  Undefined index: LoginFarmerUserType in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/HomePageFarmerPortal.php on line 212
+[20-Jun-2021 02:24:27 UTC] PHP Notice:  Undefined index: LoginFarmerUserType in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/HomePageFarmerPortal.php on line 212
+[20-Jun-2021 14:39:36 UTC] PHP Notice:  Undefined index: LoginFarmerUserType in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/HomePageFarmerPortal.php on line 212
+[20-Jun-2021 14:48:49 UTC] PHP Notice:  Undefined index: LoginFarmerUserType in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/HomePageFarmerPortal.php on line 212
+[20-Jun-2021 15:46:29 UTC] PHP Notice:  Undefined index: LoginFarmerUserType in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/HomePageFarmerPortal.php on line 212
+[20-Jun-2021 18:07:05 UTC] PHP Notice:  Undefined index: LoginFarmerUserType in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/HomePageFarmerPortal.php on line 212
+[20-Jun-2021 18:07:13 UTC] PHP Notice:  Undefined index: LoginFarmerUserType in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/HomePageFarmerPortal.php on line 212
+[21-Jun-2021 03:09:28 UTC] PHP Notice:  Undefined index: LoginFarmerUserType in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/HomePageFarmerPortal.php on line 212
+[21-Jun-2021 03:17:48 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/OrderSummary.php on line 34
+[21-Jun-2021 03:17:48 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/OrderSummary.php on line 34
+[21-Jun-2021 03:18:22 UTC] PHP Notice:  Undefined index: View_Crop_Id in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/CropViewPageDetails.php on line 112
+[21-Jun-2021 03:18:22 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/CropViewPageDetails.php on line 115
+[21-Jun-2021 03:18:22 UTC] PHP Notice:  Undefined index: View_Crop_Id in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/CropViewPageDetails.php on line 140
+[21-Jun-2021 03:18:26 UTC] PHP Notice:  Undefined index: View_Crop_Id in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/CropViewPageDetails.php on line 112
+[21-Jun-2021 03:18:26 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/CropViewPageDetails.php on line 115
+[21-Jun-2021 03:18:26 UTC] PHP Notice:  Undefined index: View_Crop_Id in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/CropViewPageDetails.php on line 140
+[21-Jun-2021 04:57:08 UTC] PHP Notice:  Undefined index: LoginFarmerUserType in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/HomePageFarmerPortal.php on line 212
+[21-Jun-2021 04:58:59 UTC] PHP Notice:  Undefined index: LoginFarmerUserType in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/HomePageFarmerPortal.php on line 212
+[21-Jun-2021 05:09:34 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/OrderSummary.php on line 34
+[21-Jun-2021 05:09:34 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/OrderSummary.php on line 34
+[21-Jun-2021 05:11:16 UTC] PHP Notice:  Undefined index: View_Crop_Id in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/CropViewPageDetails.php on line 112
+[21-Jun-2021 05:11:16 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/CropViewPageDetails.php on line 115
+[21-Jun-2021 05:11:16 UTC] PHP Notice:  Undefined index: View_Crop_Id in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/CropViewPageDetails.php on line 140
+[21-Jun-2021 05:11:20 UTC] PHP Notice:  Undefined index: View_Crop_Id in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/CropViewPageDetails.php on line 112
+[21-Jun-2021 05:11:20 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/CropViewPageDetails.php on line 115
+[21-Jun-2021 05:11:20 UTC] PHP Notice:  Undefined index: View_Crop_Id in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/CropViewPageDetails.php on line 140
+[21-Jun-2021 08:17:41 UTC] PHP Notice:  Undefined index: LoginFarmerUserType in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/HomePageFarmerPortal.php on line 212
+[21-Jun-2021 08:36:14 UTC] PHP Notice:  Undefined index: LoginFarmerUserType in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/HomePageFarmerPortal.php on line 212
+[21-Jun-2021 10:42:12 UTC] PHP Notice:  Undefined index: LoginFarmerUserType in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/HomePageFarmerPortal.php on line 212
+[21-Jun-2021 14:27:05 UTC] PHP Notice:  Undefined index: View_Crop_Id in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/CropViewPageDetails.php on line 112
+[21-Jun-2021 14:27:05 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/CropViewPageDetails.php on line 115
+[21-Jun-2021 14:27:05 UTC] PHP Notice:  Undefined index: View_Crop_Id in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/CropViewPageDetails.php on line 140
+[21-Jun-2021 15:46:49 UTC] PHP Notice:  Undefined index: View_Crop_Id in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/CropViewPageDetails.php on line 112
+[21-Jun-2021 15:46:49 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/CropViewPageDetails.php on line 115
+[21-Jun-2021 15:46:49 UTC] PHP Notice:  Undefined index: View_Crop_Id in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/CropViewPageDetails.php on line 140
+[21-Jun-2021 15:46:50 UTC] PHP Notice:  Undefined index: LoginFarmerUserType in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/HomePageFarmerPortal.php on line 212
+[21-Jun-2021 15:46:55 UTC] PHP Notice:  Undefined index: LoginFarmerUserType in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/HomePageFarmerPortal.php on line 212
+[21-Jun-2021 15:52:34 UTC] PHP Notice:  Undefined index: LoginFarmerUserType in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/HomePageFarmerPortal.php on line 212
+[21-Jun-2021 17:35:36 UTC] PHP Notice:  Undefined index: LoginFarmerUserType in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/HomePageFarmerPortal.php on line 212
+[21-Jun-2021 17:35:43 UTC] PHP Notice:  Undefined index: LoginFarmerUserType in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/HomePageFarmerPortal.php on line 212
+[21-Jun-2021 17:35:46 UTC] PHP Notice:  Undefined index: LoginFarmerUserType in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/HomePageFarmerPortal.php on line 212
+[21-Jun-2021 18:16:48 UTC] PHP Notice:  Undefined index: LoginFarmerUserType in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/HomePageFarmerPortal.php on line 212
+[21-Jun-2021 18:18:00 UTC] PHP Notice:  Undefined index: LoginFarmerUserType in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/HomePageFarmerPortal.php on line 212
+[21-Jun-2021 18:18:06 UTC] PHP Notice:  Undefined index: LoginFarmerUserType in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/HomePageFarmerPortal.php on line 212
+[21-Jun-2021 18:18:44 UTC] PHP Notice:  Undefined index: LoginFarmerUserType in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/HomePageFarmerPortal.php on line 212
+[21-Jun-2021 18:20:19 UTC] PHP Notice:  Undefined index: LoginFarmerUserType in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/HomePageFarmerPortal.php on line 221
+[21-Jun-2021 18:22:47 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/HomePageFarmerPortal.php on line 203
+[21-Jun-2021 18:22:47 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/HomePageFarmerPortal.php on line 209
+[21-Jun-2021 18:22:52 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/HomePageFarmerPortal.php on line 203
+[21-Jun-2021 18:22:52 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/HomePageFarmerPortal.php on line 209
+[21-Jun-2021 18:24:57 UTC] PHP Notice:  Undefined index: LoginFarmerUserType in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/HomePageFarmerPortal.php on line 221
+[21-Jun-2021 18:25:05 UTC] PHP Notice:  Undefined index: LoginFarmerUserType in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/HomePageFarmerPortal.php on line 221
+[21-Jun-2021 18:25:08 UTC] PHP Notice:  Undefined index: LoginFarmerUserType in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/HomePageFarmerPortal.php on line 221
+[21-Jun-2021 18:25:13 UTC] PHP Notice:  Undefined index: LoginFarmerUserType in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/HomePageFarmerPortal.php on line 221
+[21-Jun-2021 18:25:15 UTC] PHP Notice:  Undefined index: LoginFarmerUserType in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/HomePageFarmerPortal.php on line 221
+[21-Jun-2021 18:25:34 UTC] PHP Notice:  Undefined index: LoginFarmerUserType in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/HomePageFarmerPortal.php on line 221
+[21-Jun-2021 18:26:30 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/HomePageFarmerPortal.php on line 203
+[21-Jun-2021 18:26:30 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/HomePageFarmerPortal.php on line 209
+[21-Jun-2021 18:48:48 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/HomePageFarmerPortal.php on line 203
+[21-Jun-2021 18:48:48 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/HomePageFarmerPortal.php on line 209
+[21-Jun-2021 18:54:11 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/HomePageFarmerPortal.php on line 203
+[21-Jun-2021 18:54:11 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/HomePageFarmerPortal.php on line 209
+[21-Jun-2021 18:54:19 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/HomePageFarmerPortal.php on line 203
+[21-Jun-2021 18:54:19 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/HomePageFarmerPortal.php on line 209
+[21-Jun-2021 19:00:20 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/OrderSummary.php on line 34
+[21-Jun-2021 19:00:20 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/OrderSummary.php on line 34
+[21-Jun-2021 19:01:54 UTC] PHP Notice:  Undefined index: LoginFarmerUserType in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/HomePageFarmerPortal.php on line 221
+[21-Jun-2021 19:01:58 UTC] PHP Notice:  Undefined index: LoginFarmerUserType in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/HomePageFarmerPortal.php on line 221
+[21-Jun-2021 19:02:02 UTC] PHP Notice:  Undefined index: LoginFarmerUserType in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/HomePageFarmerPortal.php on line 221
+[21-Jun-2021 19:02:06 UTC] PHP Notice:  Undefined index: LoginFarmerUserType in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/HomePageFarmerPortal.php on line 221
+[21-Jun-2021 19:03:29 UTC] PHP Notice:  Undefined index: LoginFarmerUserType in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/HomePageFarmerPortal.php on line 221
+[21-Jun-2021 19:03:56 UTC] PHP Notice:  Undefined index: LoginFarmerUserType in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/HomePageFarmerPortal.php on line 231
+[21-Jun-2021 19:03:58 UTC] PHP Notice:  Undefined index: LoginFarmerUserType in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/HomePageFarmerPortal.php on line 231
+[22-Jun-2021 09:33:42 UTC] PHP Notice:  Undefined index: LoginFarmerUserType in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/HomePageFarmerPortal.php on line 231
+[22-Jun-2021 09:33:55 UTC] PHP Notice:  Undefined index: LoginFarmerUserType in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/HomePageFarmerPortal.php on line 231
+[22-Jun-2021 11:50:26 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/OrderSummary.php on line 34
+[22-Jun-2021 11:50:26 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/OrderSummary.php on line 34
+[22-Jun-2021 12:07:38 UTC] PHP Notice:  Undefined index: LoginFarmerUserType in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/HomePageFarmerPortal.php on line 231
+[22-Jun-2021 12:23:42 UTC] PHP Notice:  Undefined index: LoginFarmerUserType in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/HomePageFarmerPortal.php on line 231
+[22-Jun-2021 12:30:49 UTC] PHP Notice:  Undefined index: LoginFarmerUserType in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/HomePageFarmerPortal.php on line 231
+[22-Jun-2021 14:55:48 UTC] PHP Notice:  Undefined index: LoginFarmerUserType in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/HomePageFarmerPortal.php on line 231
+[22-Jun-2021 15:14:35 UTC] PHP Notice:  Undefined index: View_Crop_Id in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/CropViewPageDetails.php on line 112
+[22-Jun-2021 15:14:35 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/CropViewPageDetails.php on line 115
+[22-Jun-2021 15:14:35 UTC] PHP Notice:  Undefined index: View_Crop_Id in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/CropViewPageDetails.php on line 140
+[22-Jun-2021 15:14:37 UTC] PHP Notice:  Undefined index: View_Crop_Id in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/CropViewPageDetails.php on line 112
+[22-Jun-2021 15:14:37 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/CropViewPageDetails.php on line 115
+[22-Jun-2021 15:14:37 UTC] PHP Notice:  Undefined index: View_Crop_Id in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/CropViewPageDetails.php on line 140
+[22-Jun-2021 17:16:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function int() in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/CropViewPageDetails.php:236
+Stack trace:
+#0 {main}
+  thrown in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/CropViewPageDetails.php on line 236
+[22-Jun-2021 17:16:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'int(AVG(crop_rating)) AS cropavgrating FROM crop_comments WHERE Crop_id ='17173'' at line 1 in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/CropViewPageDetails.php:188
+Stack trace:
+#0 /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/CropViewPageDetails.php(188): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/CropViewPageDetails.php on line 188
+[22-Jun-2021 17:22:48 UTC] PHP Parse error:  syntax error, unexpected 'cropavgrating' (T_STRING), expecting ';' or ',' in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/CropViewPageDetails.php on line 134
+[22-Jun-2021 17:22:50 UTC] PHP Parse error:  syntax error, unexpected 'cropavgrating' (T_STRING), expecting ';' or ',' in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/CropViewPageDetails.php on line 134
+[22-Jun-2021 17:22:55 UTC] PHP Parse error:  syntax error, unexpected 'cropavgrating' (T_STRING), expecting ';' or ',' in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/CropViewPageDetails.php on line 134
+[22-Jun-2021 17:22:59 UTC] PHP Parse error:  syntax error, unexpected 'cropavgrating' (T_STRING), expecting ';' or ',' in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/CropViewPageDetails.php on line 134
+[22-Jun-2021 17:24:28 UTC] PHP Parse error:  syntax error, unexpected 'cropavgrating' (T_STRING), expecting ';' or ',' in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/CropViewPageDetails.php on line 134
+[22-Jun-2021 17:26:00 UTC] PHP Notice:  Undefined variable: fetchforavgrating in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/CropViewPageDetails.php on line 134
+[22-Jun-2021 17:26:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/CropViewPageDetails.php on line 134
+[23-Jun-2021 04:55:32 UTC] PHP Notice:  Undefined index: LoginFarmerUserType in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/HomePageFarmerPortal.php on line 231
+[23-Jun-2021 08:10:40 UTC] PHP Notice:  Undefined index: Crop_id_count in /home/z3aq7sv5x3rg/public_html/FarmerHomePageFolder/CropViewPageDetails.php on line 249

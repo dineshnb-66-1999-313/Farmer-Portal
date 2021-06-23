@@ -1,0 +1,84 @@
+/*---------------------------------- profile area---------------------------- */
+#closebtn {
+  color: red;
+  top: -1%;
+  position: absolute;
+  left: 53%;
+  font-size: 2rem;
+}
+.profile_img {
+  width: 60%;
+  height: 18%;
+  border-radius: 50%;
+  position: absolute;
+  top: 2%;
+  left: 22%;
+  border: 1px solid #fff;
+}
+.profile_img1 {
+  width: 60%;
+  height: 18%;
+  border-radius: 50%;
+  position: absolute;
+  top: 2%;
+  left: 15%;
+}
+.list {
+  /* background: green; */
+  top: 25%;
+  position: absolute;
+  border-top: 3px solid green;
+  width: 104%;
+  left: -5%;
+}
+.list ul {
+  display: block;
+  width: 120%;
+  height: 10%;
+  line-height: 70px;
+  font-size: 17px;
+  color: #fff;
+  box-sizing: border-box;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  border-bottom: 1px solid #000;
+  transition: 0.4s;
+  padding-right: 20%;
+}
+.list li {
+  left: -10%;
+  position: relative;
+  text-decoration: none;
+}
+.list ul a {
+  display: block;
+  width: 110%;
+  line-height: 60px;
+  font-size: 17px;
+  color: #fff;
+  padding-right: 49px;
+  box-sizing: border-box;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  border-bottom: 1px solid #000;
+  transition: 0.4s;
+}
+.list ul a i {
+  color: greenyellow;
+}
+.list ul li a:hover {
+  padding-left: 30px;
+  background: #818ebc;
+  text-decoration: none;
+  color: #1ef707;
+  border-radius: 0 50px 50px 0;
+}
+.list ul a i {
+  margin-right: 15px;
+}
+.sidenav::-webkit-scrollbar {
+  width: 2px;
+}
+.sidenav::-webkit-scrollbar-thumb {
+  background: orange;
+  border-radius: 20px;
+}
+/*---------------------------------- profile area---------------------------- */
